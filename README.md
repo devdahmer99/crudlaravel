@@ -16,7 +16,8 @@ Crud para Controlar Tarefas, com paginação e validação
 * Caso você utilize o Lampp o nome de usuário e senha é root.
 * Por fim abra o terminal navegue ate a pasta do projeto e rote os comandos a seguir:
 - php artisan key:generate.
-- php artisan migrate (para criar as migrações dentro do banco de dados).
+- php artisan storage:link.
+- php artisan migrate.
 - php artisan serve.
 
 Acesse o navegador e digite na URL http://127.0.0.1:8000 ou localhost:8000.
