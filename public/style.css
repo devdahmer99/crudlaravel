@@ -1,0 +1,11 @@
+.edit {
+    display:flex;
+}
+
+.edit button {
+    padding:5px;
+}
+
+.edit a {
+    padding:5px;
+}
